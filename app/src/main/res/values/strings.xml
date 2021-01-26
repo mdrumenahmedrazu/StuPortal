@@ -1,0 +1,78 @@
+<resources>
+    <string name="app_name">StuPortal</string>
+    <string name="stuportal">StuPortal</string>
+    <string name="gj">Government Jobs</string>
+    <string name="eduinfo">Job Exam Results</string>
+    <string name="er">Student Portal</string>
+    <string name="news">News</string>
+    <string name="review">Books Review</string>
+    <string name="title_activity_spash">Spash</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="title_activity_home">Home</string>
+    <string name="welcome">Welcome</string>
+    <string name="jobs">Jobs</string>
+    <string name="gjc">Government Job Circulars</string>
+    <string name="student_info">Student Info</string>
+    <string name="private_job">Private Job</string>
+    <string name="job_result">Job Results</string>
+    <string name="Campusn">Campus</string>
+    <string name="booksreview">Books Review</string>
+    <string name="nuresult">NU Results</string>
+    <string name="edures">SSC/HSC Result</string>
+    <string name="applyjob">Apply Job</string>
+    <string name="sscs">SSC/HSC Result</string>
+    <string name="honurs">Honours Result</string>
+    <string name="honsresult">Honours\n Result</string>
+    <string name="mastersresult">Masters\n Result</string>
+    <string name="nuadmission">Admission\n News</string>
+    <string name="examregis">Exam Reg</string>
+    <string name="nunews">NU News</string>
+    <string name="gotohome">Home</string>
+    <string name="onlineform">Form Fillup</string>
+    <string name="nuportal">NU Portal</string>
+    <string name="admissioncir">Addmission</string>
+    <string name="Addcir">Uni Circular</string>
+    <string name="Addinfo">AdmissionInfo</string>
+    <string name="eduin">Edu Info</string>
+    <string name="Bcssyl">BCS Syllabus</string>
+    <string name="cadrelist">Cadre List</string>
+    <string name="moti">Motivation</string>
+    <string name="cadrelistp"></string>
+    <string name="bcsmoti">BCS Motivation</string>
+    <string name="cadlista"> BCS(ADMINISTRATION) 1  \n
+BCS(AGRICULTURE) 2  \n
+BCS(ANSAR) 3  \n
+BCS(AUDIT and ACCOUNTS) 4  \n
+BCS(CO-OPERATIVE) 5  \n
+BCS(CUSTOMS and EXCISE) 6  \n
+BCS(ECONOMIC) 7  \n
+BCS(FAMILY PLANNING) 8  \n
+BCS(FISHERIES) 9  \n
+BCS(FOOD) 10  \n
+BCS(FOREIGN AFFAIRS) 11  \n
+BCS(FOREST) 12  \n
+BCS(GENERAL EDUCATION) 13  \n
+BCS(HEALTH) 14  \n
+BCS(INFORMATION) 15  \n
+BCS(LIVESTOCK) 16  \n
+BCS(POLICE) 17  \n
+BCS(POSTAL) 18  \n
+BCS(PUBLIC HEALTH ENGG) 19  \n
+BCS(PUBLIC WORKS) 20  \n
+BCS(RAILWAY TRNS.and COMMERCIAL) 21  \n
+BCS(RAILWAY: ENGINEERING) 22  \n
+BCS(ROADS and HIGH WAYS) 23  \n
+BCS(STATISTICS) 24  \n
+BCS(TAXATION) 25  \n
+BCS(TECHNICAL EDUCATION) 26  \n
+BCS(TRADE) 27  \n
+BCS(TELE-COMMUNICATION) 28  \n
+    </string>
+    <string name="adcir">University Circular</string>
+    <string name="scicomic">SciFacts</string>
+    <string name="govtjob">Government\n Job</string>
+    <string name="govtjobh">Government Job</string>
+    <string name="bcs">BCS Portal</string>
+    <string name="home">Home</string>
+
+</resources>
